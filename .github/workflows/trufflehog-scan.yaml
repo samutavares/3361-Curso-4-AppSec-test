@@ -24,8 +24,7 @@ jobs:
 
    - name: Create issue
      run: |
-      if [[ "$trufflehog_output" == *"Found unverified result 🐷🔑❓"* || "$trufflehog_output" == *"Found verified result 🐷🔑❓"*]];
-      then
+      if [[ "$trufflehog_output" == *"Found unverified result 🐷🔑❓"* || "$trufflehog_output" == *"Found verified result 🐷🔑❓"*]]; then
 
       curl -L \
         -X POST \
