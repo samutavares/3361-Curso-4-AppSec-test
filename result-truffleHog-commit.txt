@@ -1,0 +1,6 @@
+🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
+
+2023-09-20T23:38:13Z	info-0	trufflehog	finished scanning	{"chunks": 2, "bytes": 288, "verified_secrets": 0, "unverified_secrets": 0, "scan_duration": "10.002424ms"}
+🐷🔑🐷  TruffleHog. Unearth your secrets. 🐷🔑🐷
+
+2023-09-20T23:41:16Z	info-0	trufflehog	finished scanning	{"chunks": 2, "bytes": 484, "verified_secrets": 0, "unverified_secrets": 0, "scan_duration": "12.378541ms"}
