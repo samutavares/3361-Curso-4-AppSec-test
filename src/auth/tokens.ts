@@ -7,7 +7,7 @@ import fs from 'fs';
 
 import ClienteRedis from '../services/redis/redisClient.js'
 
-// Resolva o caminho do arquivo de chave privada
+// Resolva o caminho do arquivo de chave privada 
 // const privateKey = fs.readFileSync('src/ssl_certificate/chave-privada2.pem'); 
 
 const TEMPO_EXPIRACAO_ACCESS_TOKEN = [20, 'm']
