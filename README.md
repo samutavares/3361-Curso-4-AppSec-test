@@ -12,7 +12,7 @@ npm install
 
 Esse comando irá instalar todas as dependencias do projeto na sua máquina.
 
-## Executando o projet
+## Executando o projetoo
 
 Depois de instalar todas as dependências execute o comando:
 
